@@ -37,4 +37,4 @@ Discord of the community
 Developed in India 🇮🇳
 Buy Me A Coffee
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bogdan21o312&" alt="Bogdan21o312" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Bogdan21o312&theme=dark)](https://git.io/streak-stats)
