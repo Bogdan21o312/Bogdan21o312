@@ -36,3 +36,5 @@ Join Community
 Discord of the community
 Developed in India 🇮🇳
 Buy Me A Coffee
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bogdan21o312&" alt="Bogdan21o312" /></p>
