@@ -11,11 +11,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bohdanLutskiv"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bohdanLutskiv" /></a></p><br><br>
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Bogdan21o312&theme=dark)](https://git.io/streak-stats)
